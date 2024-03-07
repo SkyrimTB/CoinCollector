@@ -1,0 +1,3 @@
+C:/Users/acha/source/repos/CPP_Project/CoinCollector/build/CMakeFiles/CoinCollector.dir
+C:/Users/acha/source/repos/CPP_Project/CoinCollector/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/acha/source/repos/CPP_Project/CoinCollector/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\acha\source\repos\CPP_Project\CoinCollector\build\CMakeFiles\ef4712157ada121dbf8ca52e40e9a395\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{02056013-9F3F-3A16-99D2-2400C4CD6818}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

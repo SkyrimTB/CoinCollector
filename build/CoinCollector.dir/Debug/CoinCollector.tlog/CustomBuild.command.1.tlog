@@ -1,0 +1,10 @@
+^C:\USERS\ACHA\SOURCE\REPOS\CPP_PROJECT\COINCOLLECTOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/acha/source/repos/CPP_Project/CoinCollector -BC:/Users/acha/source/repos/CPP_Project/CoinCollector/build --check-stamp-file C:/Users/acha/source/repos/CPP_Project/CoinCollector/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
